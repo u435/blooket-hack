@@ -17,7 +17,7 @@ fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js")
 ```
 
 # Video Tutorial
-https://user-images.githubusercontent.com/73669084/137641316-ad4f1cbb-0f3d-46e2-83a7-74b7e8b9dd3c.mp4
+https://user-images.gihubusercontent.com/73669084/137641316-ad4f1cbb-0f3d-46e2-83a7-74b7e8b9dd3c.mp4
 
 
 # Bookmarklet tutorial:
